@@ -21,7 +21,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), com interesse na 
 
 
 
-
-
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
 
 
